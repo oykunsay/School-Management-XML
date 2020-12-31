@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<staff>
+	<staff staffnumber="1">
+	<name>Jai</name>
+		<surname>Courtney</surname>
+		<birthdate>14.05.1984</birthdate>
+		<gender>Male</gender>
+		<jobtitle>Teacher</jobtitle>
+		<phonenumber>133876</phonenumber>
+		<emailaddress>jaicourtney@gmail.com</emailaddress>
+		<password>jai123</password>
+	</staff>
+		<staff staffnumber="2">
+	<name>Eric</name>
+		<surname>Wood</surname>
+		<birthdate>02.04.1989</birthdate>
+		<gender>Male</gender>
+		<jobtitle>Principal</jobtitle>
+		<phonenumber>182388</phonenumber>
+		<emailaddress>ericwood@gmail.com</emailaddress>
+		<password>eric123</password>
+	</staff>
+</staff>

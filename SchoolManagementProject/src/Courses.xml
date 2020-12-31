@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+	<course>
+		<coursenumber>1</coursenumber>
+		<coursename>Maths For Geeks</coursename>
+	</course>
+		<course>
+		<coursenumber>2</coursenumber>
+		<coursename>Introduction To Psychology</coursename>
+	</course>
+</courses>

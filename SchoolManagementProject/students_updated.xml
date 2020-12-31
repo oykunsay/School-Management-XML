@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    	
+    <student schoolnumber="1">
+        		
+        <name>Ashley</name>
+        		
+        <surname>Benson</surname>
+        		
+        <birthdate>12.06.2002</birthdate>
+        		
+        <gender>Female</gender>
+        		
+        <emailaddress>ashleybenson@gmail.com</emailaddress>
+        		
+        <password>ash123</password>
+        	
+    </student>
+    		
+    <student schoolnumber="2">
+        		
+        <name>Bella</name>
+        		
+        <surname>Thorne</surname>
+        		
+        <birthdate>07.05.2002</birthdate>
+        		
+        <gender>Female</gender>
+        		
+        <emailaddress>bellathorne@gmail.com</emailaddress>
+        		
+        <password>bells123</password>
+        	
+    </student>
+    
+</students>
